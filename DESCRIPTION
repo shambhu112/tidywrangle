@@ -1,11 +1,40 @@
 Package: tidywrangle
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: Load datasets , clean column names and perform checks in a tidy manner
+Version: 0.0.1
+Authors@R: person('Niraj', 'Juneja', email = 'shambhuone12@gmail.com', role = c('cre', 'aut'))
+Description: Utilities for loading datasets and conducting data prep at initial load so that you cna work with the dataset ina tidy manner. Does the following based on a dictionary.Renames columnds to tidy columns.
+            drops unsed colums , changes data types , perform basic Data quality checks. etc.
+License: MIT + file LICENSE
+URL: https://shambhu112.github.io/tidywrangle
+Imports: 
+    config (>= 0.3),
+    R6 ,
+    readr ,
+    janitor,
+    stringr , 
+    dplyr ,
+    tibble ,
+    tidyr ,
+    shiny ,
+    tidyselect ,
+    vroom ,
+    snakecase ,
+    lubridate ,
+    testthat (>= 3.0.0),
+    cli
+Suggests: 
+    knitr ,
+    targets ,
+    rmarkdown ,
+    readxl ,
+    markdown ,
+    googlesheets4
+Config/testthat/edition: 3
 Encoding: UTF-8
+Depends:
+    R (>= 3.6) 
 LazyData: true
+VignetteBuilder: knitr, rmarkdown
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
