@@ -11,10 +11,10 @@ test_that("write dictionary", {
     test_ds <- "d:/wsl/Rproj/bcm_sfdc/sfdc_export_nov17.xlsx"
     ds <- readxl::read_xlsx(test_ds)
     dic <- create_dictory_df(ds)
-    ret <- write_dictionary(dic , to = "excel")
+    ret <- write_dictionary(dic , to = "excel" , filename = "d:\\temp\\dictionary.xlsx")
     expect_equal(ret , "d:\\temp\\dictionary.xlsx")
 
-    ret <- write_dictionary(dic)
+    ret <- write_dictionary(dic , filename = "d:\\temp\\dictionary.csv")
     expect_equal(ret , "d:\\temp\\dictionary.csv")
 
     ## google is not working

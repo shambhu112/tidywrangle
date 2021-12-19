@@ -122,18 +122,16 @@ create_dictory_df <- function(sourcedf){
 #' @param filename the file name including location
 #' @return file location of dictionary object
 #' @export
-write_dictionary <- function( dict , to = "csv" , filename = "dictionary"){
+write_dictionary <- function( dict , to = "csv" , filename = "dictionary.csv"){
     ret <- "NULL"
     if(to == "google"){
         ret <- googlesheets4::write_sheet(data = dict , ss = filename , sheet = "dictionary")
     }else if(to == "excel"){
-        nm <- paste(filename , ".xlsx" , sep = "")
-        readr::write_excel_csv(x = dict , file = nm)
-        ret <- nm
+        readr::write_excel_csv(x = dict , file = filename)
+        ret <- filename
     }else {
-        nm <- paste(filename , ".csv" , sep = "")
-        ret <- readr::write_csv(x = dict , file = nm)
-        ret <- nm
+        ret <- readr::write_csv(x = dict , file = filename)
+        ret <- filename
     }
 
     cli::cli_alert_info("dictionary file written to {to} - {ret}")
