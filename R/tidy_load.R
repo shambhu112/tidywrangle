@@ -71,7 +71,7 @@ tidy_loader <- R6::R6Class("tidy_load",
                                # Note: this is name based look at each col name level
                                cli::cli_h3("Step 3 - rename columns")
                                new_names <- sapply(colnames(data), function(x){
-                                   new_name <- self$dic[self$dic$original_colnm == x,]$target_col
+                                   new_name <- self$dic[self$dic$original_colnm == x,]$newcol_nm
                                    if(is_valid_str(new_name))
                                        return(new_name)
                                    else
