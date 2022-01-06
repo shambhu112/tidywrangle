@@ -1,0 +1,51 @@
+Base,Project Status,stage,Outcomes,study_population,study_population_description,Research_Focus,Research_Area,Welbeing_sub_category
+Home Base,Completed,Publication,Delirium,Patients,Cardiac Surgery Patients,Cognition,P,
+Home Base,Completed,Completed,Delirium,Patients,Cardiac Surgery Patients,Consciousness ,P,
+Home Base,Active,Recruiting,Delirium,Patients,Cardiac Surgery Patients,Cognition,P,
+Home Base,Active,Recruiting,Pulmonary Complication,Patients,Open Abdominal Surgery,Wellbeing(A),P,Patient
+Home Base,Active,IRB Approval,Pain,Patients,Cardiac Surgery Patients,Consciousness ,P,
+Home Base,Active,Data Analysis ,Pain,Patients,Cardiac Surgery Patients,Pain,P,
+Home Base,Active,IRB Approval,Pain,Patients,Cardiac Surgery Patients,Pain,P,
+Home Base,Upcoming,NIH Grant Review,Delirium,Patients,Cardiac Surgery Patients,Consciousness ,P,
+Home Base,Completed,Publication,Mental Health  ,Public,Health M,Wellbeing(A),M,Public
+Home Base,Completed,Publication,Mental Health  ,Public,Health M,Wellbeing,M,Public
+Home Base,Completed,Publication,EEG,Public,Health M,Cognition,M,
+Home Base,Active,Recruitment,Anxiety and Sleep Surveys,Public,Health M,Sleep,M,
+Home Base,Active,Data analysis,"Compassion Survey, Case Vignettes Discussion ",Providers,ICU Providers,Compassion,M,
+Home Base,Active,Recruitment,Mental Health,Public,Health M,Wellbeing,M,Public
+Home Base,Active,Recruitment,Mental Health,Public,Health M,Wellbeing,M,Public
+Home Base,Active,Recruitment,Long COVID Symptoms,Patients,Long COVID Patients,Wellbeing(A),M,Patient
+Home Base,Active,Recruitment,Mental Health,Providers,Medical Professionals,Wellbeing,M,Provider
+Home Base,Active,Data Analysis,Cognition  ,Patients,Cardiac Surgery Patients,Cognition,M,
+Home Base,Upcoming,IRB Approval,"Sleep Architecture, Cognition, Blood",Public,Health M,Sleep,M,
+Home Base,Upcoming,IRB Approval,"Mental Health, MRI, Blood, Wearables",Providers,Nurses,Wellbeing,M,Provider
+Home Base,Upcoming,IRB Approval,"EEG, MEG",Public,Health M,Consciousness,M,
+Home Base,Upcoming,Grant Submitted,"Gut-Brain Markers, Inflammation Markers, Transcriptome Analysis",Patients,IBS Patients,Inflammation,M,
+Home Base,Upcoming,IRB Approval,"EEG, MRI, Brain Age, Sleep, Cognition, Blood",Public,Health M,Consciousness,M,
+Home Base,Upcoming,IRB Approval,"EEG, Brain Age, Sleep Architecture, Cognition",Public,Health M,Sleep,M,
+Home Base,Upcoming,Protocol Development,"Mental Health, Movement Disorder",Patients,Parkinson's Patients,Wellbeing,M,Patient
+Home Base,Upcoming,Protocol Development,Cognition  ,Patients,MCI Patients,Cognition,M,
+Home Base,Upcoming,Protocol Development,Pulmonary  & Immune Function,Patients,COVID Patients,Inflammation,M,
+Collaborative Projects,Completed,Published,Feasibility ,Providers,Cancer Providers,Wellbeing,M,Provider
+Collaborative Projects,Completed,Publication,Mental Health,Public(M),College Students,Wellbeing,M,Public
+Collaborative Projects,Completed,Published,"Mental Health,
+Blood Lipid, Inflammation",Public,Health M,Cardiovascular,M,
+Collaborative Projects,Completed,Publication,fMRI,Public(M),Health M,Cognition,M,
+Collaborative Projects,Completed,Publication,Lipid Metabolism,Public,Health M,Cardiovascular,M,
+Collaborative Projects,Completed,Publication,Gene Expression ,Public,Health M,Inflammation,M,
+Collaborative Projects,Active,Data Analysis,"Brain Age, Sleep, Cognition, Mental Health",Public,Health M,Cognition,M,
+Collaborative Projects,Active,IRB Approval,Mental Health Sleep,Public,Medical Stidents,Wellbeing,M,Public
+Collaborative Projects,Active,Recruitment,Pain,Patients,Low Back Pain Patients,Pain,M,
+Collaborative Projects,Active,Recruitment,"Mental Health, Quality of Life",Patients,Mild Traumatic Brain Injury,Cognition,M,
+Collaborative Projects,Active,Data Analysis,GI Profile,Public,Health M,Inflammation,M,
+Collaborative Projects,Active,Data Analysis,Systems Biology,Public,Health M,Inflammation,M,
+Collaborative Projects,Active,Data Analysis,"MRI, Brain Age",Public,Health M,Cognition,M,
+Collaborative Projects,Upcoming,Proposal in Preparation,"MRI,fMRI",Public,Health M,Consciousness,M,
+Collaborative Projects,Upcoming,Proposal in Preparation,"Sleep Architecture, Pain",Patients,OSA Surgery Patients,Sleep,M,
+Collaborative Projects,Upcoming,IRB Approval,"Mental Health, Quality of Life, Inflammation, Health outcomes",Patients,Cardiac Rehabilitation Patients,Cardiovascular,M,
+Collaborative Projects,Upcoming,Proposal in Preparation,Mental Health,Public,Middle School Students,Wellbeing,M,Public
+Collaborative Projects,Upcoming,Proposal in Preparation,Autism,Patients,Children with Autism,Cognition,M,
+Collaborative Projects,Upcoming,Proposal in Preparation,Diabetes Outcomes,Patients,Diabetic Patients,Cardiovascular,M,
+Collaborative Projects,Upcoming,Proposal in Preparation,"Inflammation, Immune Function",Public,Healthy Population,Inflammation,M,
+Collaborative Projects,Upcoming,Proposal in Preparation,Surgery Outcomes,Patients,Older Adult Surgery Patients,Wellbeing,M,Patient
+Collaborative Projects,Upcoming,Data Analysis,Inflammation,Public,Healthy Population,Inflammation,M,
